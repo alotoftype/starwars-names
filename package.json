@@ -1,0 +1,20 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alotoftype/starwars-names.git"
+  },
+  "keywords": [],
+  "author": "Serge M <alotoftpe@gmail.com> (https://smjr.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alotoftype/starwars-names/issues"
+  },
+  "homepage": "https://github.com/alotoftype/starwars-names#readme"
+}
